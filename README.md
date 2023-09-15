@@ -83,10 +83,11 @@ Berikut adalah penjelasan lengkap dari Dataset kita:
 |Profit | Keuntungan dari transaksi|
 
 
-Mengubah format data yang sesuai dengan yang seharusnya.
-Memeriksa dan mengisi nilai yang hilang.
-Menambahkan kolom-kolom baru untuk pengelompokan data time to time.
-Menghapus kolom-kolom yang tidak diperlukan.
+1. Mengubah format data yang sesuai dengan yang seharusnya.
+
+2. Memeriksa dan mengisi nilai yang hilang.
+3. Menambahkan kolom-kolom baru untuk pengelompokan data time to time.
+4. Menghapus kolom-kolom yang tidak diperlukan.
 
 **Ini adalah tampilan data yang sudah di bersihkan**
 ![Screenshot 2023-09-15 112300](https://github.com/AliWafaar/AWS_Sales_and_Profit_Analytics/assets/141825588/87ba6433-c01d-4780-8352-75d5a29e52ad)
