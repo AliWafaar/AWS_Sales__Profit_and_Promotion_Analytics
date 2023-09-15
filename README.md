@@ -3,7 +3,7 @@
 Notebook ini dibuat sebagai proyek capstone kedua saya dalam mengikuti kursus Data Science di Purwadhika. Notebook ini berisi analisis data dari awal hingga akhir dan merupakan portofolio saya dalam perjalanan belajar menuju ilmu data.
 
 Dataset ini memberikan kita wawasan tentang penjualan perusahaan AWS kepada perusahaan lain dalam lingkup **B2B (Business-to-Business)** dari tahun 2020 hingga 2023.
-Dataset ini bisa di Akses di : [Link Data Set](https://drive.google.com/file/d/1B6bzI1cmaVlR8hPwgBD3cecAUIkeCp6H/view?usp=drive_link)
+Dataset ini bisa di Akses di : [Link Data Set](https://github.com/AliWafaar/AWS_Sales_and_Profit_Analytics/blob/main/Amazon%20Web%20Service%20Sales.csv)
 
 # Latar Belakang AWS
 
