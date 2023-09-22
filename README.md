@@ -140,14 +140,8 @@ Secara keseluruhan, dengan memahami dan mengambil langkah-langkah berdasarkan an
       - **Januari**
       - **Febuari**
       - **Maret**
-      - **April**
-      - **Mei**
-      - **Juni**
-      - **Juli**
-      - **Agustus**
-      - **Oktober**
-
-**2. Penyesuaian Strategi Berdasarkan Data Penjualan Negara:**
+   
+   **2. Penyesuaian Strategi Berdasarkan Data Penjualan Negara:**
    - **Penjualan di Negara dengan Potensi Rendah**: Fokus pada negara dengan penjualan rendah seperti **Qatar, Iceland, Denmark, Croatia, dan Slovenia** untuk mencari peluang pasar baru.
    - **Penjualan di Negara dengan Potensi Tinggi**: Tingkatkan promosi di negara dengan penjualan tinggi seperti **AS, Inggris, Jepang, Kanada, dan Prancis** untuk mempertahankan kontribusi mereka.
 
